@@ -1,6 +1,6 @@
 # threejs_parcel_boilerplate
 
-Minimalist Three.js setup w/ Parcel (includes ESLint and Prettier).
+Minimalist Three.js setup.
 
 This project uses [Three.js](https://threejs.org/), [Parcel](https://parceljs.org/), [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/).
 
