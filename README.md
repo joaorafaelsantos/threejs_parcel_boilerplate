@@ -6,13 +6,15 @@ This project uses [Three.js](https://threejs.org/), [Parcel](https://parceljs.or
 
 ## Getting Started
 
-`git clone https://github.com/joaorafaelsantos/threejs_parcel_boilerplate # Clone the repository.`
+`git clone https://github.com/joaorafaelsantos/threejs_parcel_boilerplate` #clone the repository
 
-`cd threejs_parcel_boilerplate && yarn install # Install dependencies using [Yarn](https://yarnpkg.com/).`
+`cd threejs_parcel_boilerplate && yarn install` #install dependencies using [Yarn](https://yarnpkg.com/)
 
-`yarn start # Start the local development server (open http://localhost:5000 in your browser).`
+`yarn start` #start the local development server (open http://localhost:5000 in your browser)
+
 or
-`yarn build # Build optimized files into /build folder.`
+
+`yarn build` #build optimized files into /build folder
 
 ## Project structure
 
